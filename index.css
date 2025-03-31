@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 1rem;
+
+}
+
+body .icono-instagram{
+    width: 4.1%;
+    
+}
+body .titulo{
+    padding:  1rem;
+   
+}
+.titulo-inst h3{
+   
+    margin-left: -1rem;
+    margin-top: 1.4rem;
+}
+body .boton{
+   
+    padding: 1.5rem;
+
+}
+body .dropdown{
+    padding: 0.8rem;
+}
+.cuerpo{
+    background: white;
+}
+.drop-header{
+    border-bottom: 1rem; 
+}
+
+.drop-footer{
+    border-top: solid 0.5px black;
+    display: flex;
+    padding-left: 1rem;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.parrafo{
+    color: rgba(22, 21, 21, 0.425);
+    padding-left: 1rem;
+    padding-top: 7px;
+    padding-bottom: 0px;
+    border: solid 1px gray;
+    height: 5rem;
+    margin-bottom: 1px;
+   
+}
+.logos{
+    font-size: 1rem;
+    color: rgba(22, 21, 21, 0.425);
+    padding-left: 1rem;
+    height: 4rem;
+}
+.fa-camera{
+    color: black;
+   font-size: 1.3rem;
+   background: rgba(255, 252, 252, 0.808);
+   border: 1px solid rgba(0, 0, 0, 0.144);
+   padding: 7px;
+}
+.fa-location-dot{
+    color: black;
+    background: rgba(255, 255, 255, 0.884);
+    font-size: 1.3rem;
+    border: 1px solid rgba(0, 0, 0, 0.151);
+    padding: 7px;
+
+}
+.album{
+    display: table;
+    padding: 2rem;
+    height: 80%;
+    width: 100%;
+    }
+.cartas{
+    align-content: center;
+    
+}
+body .card1{
+   
+   margin: 4rem 15rem;
+}
+body .card2{
+    
+    margin: 4rem 15rem;
+}
+body .card3{
+   
+    margin: 4rem 15rem;
+
+}
+.titulo1{
+    border: 0.5px solid rgba(0, 0, 0, 0.514);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+.card-body1{
+    border: 0.5px solid black;
+    padding-bottom: 1.5rem;
+    padding-top: 8px;
+    padding-left: 2px;
+}
+.card-body2{
+    border: 0.5px solid black;
+    padding-bottom: 1.5rem;
+    padding-top: 8px;
+    padding-left: 2px;
+}
+.card-body3{
+    border: 0.5px solid black;
+    padding-bottom: 1.5rem;
+    padding-top: 8px;
+    padding-left: 2px;
+}
